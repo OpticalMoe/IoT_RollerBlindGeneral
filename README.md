@@ -1,7 +1,7 @@
 # IoT_RollerBlindGeneral
 【IoT】卷帘大将
 
-**开源地址：立创开源平台 https://oshwhub.com/OpticalMoe/roller_blind_general**
+**文档及PCB可见：立创开源平台 https://oshwhub.com/OpticalMoe/roller_blind_general**
 
 [说明文档.pdf](./卷帘大将_电动窗帘_说明文档.pdf)
 
